@@ -46,6 +46,20 @@ new Vue({
           title: "Ant-Man",
           isOpen: false,
         },
+        {
+          img1: "images/new1.jpg",
+          img2: "images/new2.jpg",
+          img3: "images/new3.jpg",
+          title: "New Avengers",
+          isOpen: false,
+        },
+        {
+          img1: "images/panter1.jpg",
+          img2: "images/panter2.jpg",
+          img3: "images/panter3.jpg",
+          title: "Black Panter",
+          isOpen: false,
+        },
       ],
     };
   },
