@@ -55,6 +55,7 @@ new Vue({
         },
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
           img1: "images/cap1.jpg",
           img2: "images/cap2.jpg",
           img3: "images/cap3.jpg",
@@ -65,6 +66,12 @@ new Vue({
           img3: "images/widow3.jpg",
           title: "Black Widow",
 >>>>>>> feature/viuda-negra
+=======
+          img1: "images/panter1.jpg",
+          img2: "images/panter2.jpg",
+          img3: "images/panter3.jpg",
+          title: "Black Panter",
+>>>>>>> feature/pantera-negra
           isOpen: false,
         },
       ],
