@@ -54,10 +54,17 @@ new Vue({
           isOpen: false,
         },
         {
+<<<<<<< HEAD
           img1: "images/cap1.jpg",
           img2: "images/cap2.jpg",
           img3: "images/cap3.jpg",
           title: "Captain America",
+=======
+          img1: "images/widow1.jpg",
+          img2: "images/widow2.jpg",
+          img3: "images/widow3.jpg",
+          title: "Black Widow",
+>>>>>>> feature/viuda-negra
           isOpen: false,
         },
       ],
