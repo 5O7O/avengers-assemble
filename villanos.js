@@ -18,6 +18,13 @@ new Vue({
           title: "Loki",
           isOpen: false,
         },
+        {
+          img1: "images/red1.jpg",
+          img2: "images/red2.jpg",
+          img3: "images/red3.jpg",
+          title: "Red Skull",
+          isOpen: false,
+        },
         },
       ],
     };
